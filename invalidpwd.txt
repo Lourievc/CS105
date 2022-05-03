@@ -1,0 +1,12 @@
+MYPassword           Invalid password! Must contain at least one NUMBER.
+MYPA55###            Invalid password! Must contain at least one LOWERCASE character.
+admin                Invalid password! Must be at least 8 characters long.
+Kids&Wife            Invalid password! Must contain at least one NUMBER.
+Ut@4                 Invalid password! Must be at least 8 characters long.
+#THE12ROCK#          Invalid password! Must contain at least one LOWERCASE character.
+password             Invalid password! Must contain at least one UPPERCASE character.
+Gabriel99            Invalid password! Must contain at least one of {@, #, %, -, &, *}.
+1111                 Invalid password! Must be at least 8 characters long.
+Jeff&Karis           Invalid password! Must contain at least one NUMBER.
+RULDS2iam            Invalid password! Must contain at least one of {@, #, %, -, &, *}.
+04281983             Invalid password! Must contain at least one UPPERCASE character.
